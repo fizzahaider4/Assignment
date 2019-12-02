@@ -1,0 +1,18 @@
+<aiml version="1.0.1" encoding="UTF-8">
+
+<category>
+       <pattern>I go to school</pattern>
+       <template>Do I go to school?</template>
+   </category>
+   
+   <category>
+       <pattern>I work at office</pattern>
+       <template>Do I work at office?</template>
+   </category>
+   
+   <category>
+        <pattern>I live in karachi</pattern>
+       <template>Do I live in karachi?</template>
+   </category>
+   
+</aiml>   
